@@ -1,0 +1,6 @@
+{
+  "name": "공익센터 공지 AI 쇼츠 제작 자동화",
+  "description": "경기도공익활동지원센터 공지사항을 수집하여 대학생 타겟의 15초 유튜브 쇼츠 대본 및 이미지 생성용 프롬프트를 자동으로 제작하고 검수 및 수정하여 MAKE 웹훅으로 전달할 수 있게 구성하는 자동화 대시보드 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
